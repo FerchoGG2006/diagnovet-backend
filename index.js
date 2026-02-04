@@ -86,7 +86,7 @@ app.get('/', (req, res) => {
             'DELETE /reports/:id': 'Elimina un reporte',
             'GET /health': 'Estado de los servicios',
         },
-        documentation: 'https://github.com/tu-usuario/diagnovet-backend',
+        documentation: 'https://github.com/FerchoGG2006/diagnovet-backend',
     });
 });
 
