@@ -1,0 +1,41 @@
+# Dependencias
+node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de credenciales (incluir solo si es necesario)
+*.json
+!package.json
+!package-lock.json
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de test
+coverage
+.nyc_output
+*.test.js
+*.spec.js
+__tests__
+
+# Documentación
+README.md
+docs
+
+# Git
+.git
+.gitignore

@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+
+4 0 obj
+<< /Length 580 >>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(REPORTE DE ULTRASONIDO VETERINARIO) Tj
+0 -30 Td
+/F1 12 Tf
+(-------------------------------------------) Tj
+0 -25 Td
+(Patient: Max) Tj
+0 -18 Td
+(Species: Canino) Tj
+0 -18 Td
+(Breed: Golden Retriever) Tj
+0 -18 Td
+(Age: 5 anios) Tj
+0 -18 Td
+(Weight: 32 kg) Tj
+0 -30 Td
+(Owner: Juan Perez Garcia) Tj
+0 -18 Td
+(Phone: +57 300 123 4567) Tj
+0 -30 Td
+(Veterinarian: Dra. Maria Rodriguez) Tj
+0 -18 Td
+(License: 12345-VET) Tj
+0 -30 Td
+(Diagnosis: Ecografia abdominal sin alteraciones) Tj
+0 -18 Td
+(significativas. Higado, rinones y bazo de) Tj
+0 -18 Td
+(tamano y ecogenicidad normal.) Tj
+0 -30 Td
+(Recommendations: Control en 6 meses.) Tj
+0 -18 Td
+(Mantener dieta balanceada.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000266 00000 n 
+0000000898 00000 n 
+
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+977
+%%EOF
