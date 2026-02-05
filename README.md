@@ -281,7 +281,7 @@ MIT License - ver [LICENSE](./LICENSE) para más detalles.
 **Fernando José Baquero Vergara**
 
 - GitHub: [@FerchoGG2006](https://github.com/FerchoGG2006)
-- Email: [tu-email@ejemplo.com]
+- Email: [fernandobaquero45@gmail.com](fernandobaquero45@gmail.com)
 
 ---
 
