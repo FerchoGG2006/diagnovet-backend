@@ -10,6 +10,8 @@ node_modules
 *.json
 !package.json
 !package-lock.json
+sa-key.json
+*-key.json
 
 # Logs
 logs
@@ -33,3 +35,14 @@ coverage
 # Build
 dist
 build
+
+# Challenge original PDFs (no incluir en el repo)
+1. BE Engineer*
+BE Engineer Challenge*
+
+# Test files
+test-report.pdf
+test-upload.html
+
+# PowerShell scripts (local only)
+*.ps1
